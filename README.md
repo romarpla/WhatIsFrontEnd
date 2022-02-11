@@ -12,6 +12,8 @@ En esta misión veremos la mágia de cómo funcionan las aplicaciones y es tu in
 
 Podrías llegar a preguntarte que quién soy y por qué estoy como Mision Comander de esta primera edición, pues dejame presentarme y conozcámonos.
 
+**Igual me puedes encontrar en insta como [@romarpla](https://www.instagram.com/romarpla/?hl=en) y por ahí también podemos echar el coto**
+
 Me llamo Rodrigo Martínez y así como tu, amo la tecnología y todo lo que tiene que ver con crear cosas usando la imaginación como dicen por ahí si lo puedes imaginar lo puedes programar! *(Grande ATS!)*
 
 ![RM](./images/perfilRodrigo.PNG)
